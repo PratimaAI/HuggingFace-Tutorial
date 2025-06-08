@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.DS_store
+*.tsv
+*.csv
+*.zip
+*.env
+*.json
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.txt
+runs/
